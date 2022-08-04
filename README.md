@@ -1,3 +1,4 @@
 # maddenbasenflphpwebsite
 Madden Base NFL Custom PHP Website
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/43674715/182962010-669123e2-17fc-4fda-b1ce-7ed32392a49f.jpg)
+
+![localhost_maddenbase_home php (3)](https://user-images.githubusercontent.com/43674715/182962782-dbcab5b5-7460-46b0-91ae-e9c4073c5e5f.jpg)
